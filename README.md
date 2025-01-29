@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UserCarolinaElena.
-- 👀 I’m interested in Data Analysis, Data Science and Data Engineering.
+- 👀 I’m interested in Data Analysis and BackEnd Development.
 - 🌱 I’m currently learning Data Analysis.
-- 📫 How to reach me: here on GitHub or on my LinkedIn.
+- 📫 How to reach me: here on GitHub or on my LinkedIn ( www.linkedin.com/in/carolina-elena-domingo-rimoldi/ )
 
 <!---
 UserCarolinaElena/UserCarolinaElena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
