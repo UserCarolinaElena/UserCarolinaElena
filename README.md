@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @UserCarolinaElena.
 - 👀 I’m interested in Data Analysis and BackEnd Development.
-- 🌱 I’m currently learning Data Analysis.
 - 📫 How to reach me: here on GitHub or on my LinkedIn ( www.linkedin.com/in/carolina-elena-domingo-rimoldi/ )
 
 <!---
